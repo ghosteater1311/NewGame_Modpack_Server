@@ -8,4 +8,4 @@ HTC One M8
 - **GPU**: Adreno 330
 - **RAM**: 2 GB
 - **Storage**: 16 GB
-
+- **Storage Type**: eMMC 5.0
